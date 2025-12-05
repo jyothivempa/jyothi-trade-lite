@@ -1,6 +1,10 @@
 fastapi
 uvicorn
-yfinance
 pandas
-numpy
+pandas-ta
+yfinance
+kiteconnect
+aiohttp
+tabulate
+colorama
 pytz
